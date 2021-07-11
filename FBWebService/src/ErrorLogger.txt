@@ -1,0 +1,594 @@
+Thu Apr 08 2021 10:52:29 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 10:54:40 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:27:45 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:27:57 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:28:26 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:28:29 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:28:36 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:28:51 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:30:21 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.400 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:30:42 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:31:34 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.400 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:31:40 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:32:36 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.400 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:32:53 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:33:27 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:33:36 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:34:20 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:34:36 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:44:23 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:44:32 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.400 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:44:48 GMT+0530 (India Standard Time) - Error: Flight almost Full... Only 2 left!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:62:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:44:57 GMT+0530 (India Standard Time) - Error: Flight almost Full... Only 2 left!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:62:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:44:59 GMT+0530 (India Standard Time) - Error: Flight almost Full... Only 2 left!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:62:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:45:04 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.1000 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:46:14 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:48:12 GMT+0530 (India Standard Time) - Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:15)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Thu Apr 08 2021 11:48:57 GMT+0530 (India Standard Time) - Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:15)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Thu Apr 08 2021 11:58:44 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.300 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 11:59:30 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.300 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:00:50 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:01:11 GMT+0530 (India Standard Time) - Error: Flight almost Full... Only 2 left!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:62:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:01:14 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.1200 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:02:05 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.1400 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:03:36 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.300 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:03:52 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.800 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:04:01 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:07:00 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.100 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:08:42 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:10:57 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.100 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:11:34 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:13:02 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:14:05 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 12:17:15 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 13:03:25 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 13:17:12 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 16:09:05 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 16:09:10 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 16:09:16 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 16:31:44 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 19:29:50 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 19:29:51 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 19:39:36 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 19:40:26 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 19:40:53 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:01:05 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:01:14 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:01:58 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:02:09 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:05:58 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:05:59 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:07:54 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 08 2021 20:07:58 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:08:03 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:10:55 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:10:57 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:10:57 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:10:58 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:10:59 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:00 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:01 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:01 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:02 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:03 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 20:11:04 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 21:45:40 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 21:45:54 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 08 2021 21:46:02 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at Function.create (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:123:22)
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\common_functions.js:384:39
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Fri Apr 09 2021 09:47:27 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Fri Apr 09 2021 11:13:17 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Fri Apr 09 2021 11:21:34 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Fri Apr 09 2021 12:05:39 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 07:48:12 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 29 2021 07:48:14 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Thu Apr 29 2021 07:53:33 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 07:54:55 GMT+0530 (India Standard Time) - Error: Flight almost Full. Only 1 seat left
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:156:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 07:55:16 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 08:03:23 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 08:04:01 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Thu Apr 29 2021 08:04:04 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sat May 01 2021 07:39:09 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sat May 01 2021 07:39:17 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sat May 01 2021 07:39:19 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sat May 01 2021 07:39:33 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sat May 01 2021 07:41:33 GMT+0530 (India Standard Time) - Error: Flight almost Full. Only 2 seat left
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:156:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sat May 01 2021 07:41:41 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.400 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:167:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:11:26 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:11:46 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:11:46 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:11:46 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:11:46 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:13:51 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:14:33 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:14:35 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:14:36 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:14:37 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:14:37 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:14:52 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:15:06 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:15:21 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:16:53 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.600 to continue booking
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:16:59 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:00 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:00 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:00 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:01 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:01 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:02 GMT+0530 (India Standard Time) - BulkWriteError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: routeId_1 dup key: { routeId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:1258:9)
+    at resultHandler (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\bulk\common.js:521:23)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
+Sun May 02 2021 15:17:10 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:17:12 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Sun May 02 2021 15:19:31 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Wed May 05 2021 17:11:08 GMT+0530 (India Standard Time) - ReferenceError: fligtBooking is not defined
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:17
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\utilities\requestlogger.js:8:5)
+Wed May 05 2021 17:15:25 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:58:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Wed May 05 2021 17:16:07 GMT+0530 (India Standard Time) - ReferenceError: fligtBooking is not defined
+    at Object.fBookingService.bookFlight (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:17)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:38:23
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+Wed May 05 2021 17:16:22 GMT+0530 (India Standard Time) - Error: Flight IND-101 is already full!!
+    at C:\Users\User\Desktop\DAy\Captone\FlightBooking-toTrainee\FBWebService\src\service\users.js:59:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
